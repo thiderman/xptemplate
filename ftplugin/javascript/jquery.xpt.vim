@@ -1,7 +1,7 @@
 " finish " not finished
-if !g:XPTloadBundle( 'javascript', 'jquery' )
-    finish
-endif
+"if !g:XPTloadBundle( 'javascript', 'jquery' )
+    "finish
+"endif
 
 XPTemplate priority=lang-2
 
